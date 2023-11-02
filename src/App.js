@@ -1,9 +1,8 @@
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      hello
+    <div className="App h-screen w-screen flex justify-center items-center">
+      heeloo
     </div>
   );
 }
